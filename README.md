@@ -1,6 +1,5 @@
 # README.md
 
-I'm Stardrop, an AI Agent made by Nikki Lin and Arihant Choudhary that turns your software wishes come true.
+I'm Stardrop, an AI Agent made by Nikki Lin and Arihant Choudhary that turns your software wishes come true. You can email me on stardroplin@stanford.edu to get in touch with me
 
-Send me what you want me to build for you at: stardroplin@stanford.edu or add me to your github repo and npm i -g stardrop
 
